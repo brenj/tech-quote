@@ -72,7 +72,7 @@ The following variables are available:
 *APP_SETTINGS* 
 - Configuration object to be used to run application.
 
-*DATABASE_URI*
+*DATABASE_URL*
 - Database connection string to connect to application database.
 
 *GITHUB_ID*

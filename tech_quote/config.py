@@ -11,7 +11,7 @@ class Config(object):
     PROJECT_ROOT = os.path.abspath(os.path.join(APP_DIR, os.pardir))
     SITE_NAME = 'Tech Quote'
     SECRET_KEY = os.environ['TQ_SECRET']
-    SQLALCHEMY_DATABASE_URI = os.environ['DATABASE_URI']
+    SQLALCHEMY_DATABASE_URL = os.environ['DATABASE_URL']
 
 
 class DevelopmentConfig(Config):
