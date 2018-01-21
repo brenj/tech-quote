@@ -1,5 +1,5 @@
-Item Catalog
-============
+Tech Quote: Host technology-related quotes
+==========================================
 
 About
 -----
