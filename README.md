@@ -93,7 +93,7 @@ Install
 1. `git clone https://github.com/brenj/fullstack-nanodegree-vm.git fullstack && cd fullstack/vagrant`
 2. `vagrant up`
 3. `vagrant ssh`
-4. `cd /vagrant/udacity/item_catalog/`
+4. `cd /vagrant/tech-quote`
 5. `virtualenv venv && . venv/bin/activate`
 6. `. bin/set-env-vars.sh` (after updating configuration values in `.env`, see Configuration)
 7. `make install`
