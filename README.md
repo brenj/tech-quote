@@ -1,3 +1,5 @@
+[![Live Demo](https://img.shields.io/badge/live%20demo-active-brightgreen.svg?style=flat-square)](https://ancient-earth-46456.herokuapp.com/)
+
 Tech Quote: Host technology-related quotes
 ==========================================
 
@@ -57,6 +59,10 @@ project by implementing the following:
 
 **CSS/JS Libraries**:  Bootstrap v3, Bootstrap Social, Selectize.js,
     Font-Awesome
+
+Deployment
+----------
+This project was deployed on Heroku using their free-tier service. This means that the readable app will "go to sleep" after 30 minutes of inactivity. This translates to a very slow first startup as the Heroku dynos that run the application will need to be brought up first.
 
 Requirements
 ------------
