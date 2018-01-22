@@ -36,6 +36,7 @@ doc:
 
 install:
 	@echo "# Installing application"
+	bower install
 	pip install -r requirements.txt
 	make db
 	make db-upgrade
